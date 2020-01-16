@@ -101,7 +101,6 @@ namespace WindowsFormsApplication1
         {
             if (!string.IsNullOrEmpty(txtEmail.Text))
             {
-                var ValidationDate2 = DateTime.UtcNow;
                 ValidationDate = FakeDate;
                 ValidationKey = CreateHash(Environment.MachineName + this.txtEmail.Text.Trim() + ValidationDate);
                 txtValidation.Text = ValidationKey;
