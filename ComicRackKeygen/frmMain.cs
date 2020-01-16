@@ -70,7 +70,7 @@ namespace WindowsFormsApplication1
         {
             if (File.Exists(SettingPath()))
             {
-                Config = XElement.Load(SettingPath(), LoadOptions.PreserveWhitespace);
+                Config = XElement.Load(SettingPath());
             }
             else
             {
