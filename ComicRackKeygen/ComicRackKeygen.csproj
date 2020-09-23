@@ -112,7 +112,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Builds\ComicRackKeygen.exe" />
     <Content Include="ComicRack.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
