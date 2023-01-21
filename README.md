@@ -14,6 +14,7 @@ Note that the key created is dependant on your computer Name and local date form
 
 ###### Check my plugins for ComicRack:
 
+- ###### [Amazon Scrapper for ComicRack](https://github.com/maforget/ComicRack_AmazonScrapper). A Scrapper for Amazon books (former Comixology library).
 - ###### [Data Manager](https://github.com/maforget/CRDataManager) let's you manipulate your data for ComicRack. Fix the various bugs in the latest v2 release.
 - ###### [Bédéthèque Scrapper v2](https://github.com/maforget/Bedetheque-Scrapper-2) to scrap data from the French BD site Bédétheque.
 - ###### [FindImageResolution.py](https://gist.github.com/maforget/63558612d19410c9807d6e87a494cf4a) to determine the resolution of a comic. Click raw and save as the file, copy the file in either `%programfiles%\ComicRack\Scripts` or `%appdata%\cYo\ComicRack\Scripts`. Use it by right-clicking--> Automate-->Find Image Resolution. It will add the resolution to Scan Information in the Plot & Notes tab.
