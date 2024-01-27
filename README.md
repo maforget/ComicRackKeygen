@@ -1,4 +1,7 @@
-### Note this is published only since the ComicRack Page is offline so people who donated can get rid of the popup. So there is no way to legitimately pay for it anymore.
+### You should consider using [ComicRack Community Edition](https://github.com/maforget/ComicRackCE). And if you can please contribute to the project. 
+#### The [release](https://github.com/maforget/ComicRackKeygen/releases/tag/1.0) for this repo contains the APK to the Android Client. It alos contains a Support Pack for the Original ComicRack, which isn't needed anymore with the Community Edition.
+
+#### Note this is published only since the ComicRack Page is offline so people who donated can get rid of the popup. So there is no way to legitimately pay for it anymore.
 
 You should have run ComicRack once at least before using this and make sure it is closed. Enter your email address and click Save, your copy of ComicRack will be validated up to Jan 1st 2100.
 
